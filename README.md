@@ -1,16 +1,29 @@
-### Hi there 👋
+# Yunrayz
 
-<!--
-**Yunrayz/Yunrayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunrayz)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Clément Rousseau, a student in computer science at the University of Technology of Troyes in France. You'll find here some projects I worked on.
+
+### Humanbusters
+
+Made with Unity. A 2D game entirely made by a 5 students team. Here 
+
+### generative-content-smart-room
+
+### Cubes-game
+
+### RSA cryptosystem - C
+
+### Axure rp UI
+
+### Site internet - PHP
+
+### Site internet - HTML and CSS
+
+### Stencyl game
+
+### Jest Card Game - Java
+
+### Integration by random draw - C

@@ -5,7 +5,7 @@
 
 I am Clément Rousseau, a student in computer science at the University of Technology of Troyes in France. You'll find here some projects I worked on.
 
-### Humanbusters
+### [Humanbusters](https://github.com/Yunrayz/Humanbusters)
 
 Made with Unity. A 2D game entirely made by a 5 students team. You are a little cute ghost that is starting its terrific journey by trying to scare the neighborhood. Here is a [gameplay footage](https://youtu.be/4UKzsBFSgks) if you want to discover more about it.
 

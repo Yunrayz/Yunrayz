@@ -1,6 +1,5 @@
 # Clément Rousseau
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunrayz&layout=compact)
 
 ## About me
 

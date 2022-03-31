@@ -1,6 +1,6 @@
 # Yunrayz
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunrayz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunrayz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 

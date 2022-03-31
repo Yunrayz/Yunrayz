@@ -1,6 +1,6 @@
 # Clément Rousseau
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunrayz&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunrayz&layout=compact)
 
 ## About me
 
@@ -12,9 +12,11 @@ Made with Unity. A 2D game entirely made by a 5 students team. You are a little 
 
 ### generative-content-smart-room
 
-Made with Unity. It's a game supposed to be played by two children, between 6 and 12, with a typical or atypical developpment. The game was developped to be played in a Magic Room, a place equipped with a Kinect System tracking the movements of the players, and two screen projected on the floor and on a wall. In this highly immersive experience, they will need to collaborate to discover everything about their environment, wich as a lot to offer. Here is a [short video](https://youtu.be/afiMRngNa0w) showing a bit of the project.
+Made with Unity. It's a game supposed to be played by two children, between 6 and 12, with a typical or atypical developpment. The game was developped to be played in a Magic Room, a place equipped with a Kinect System tracking the movements of the players, and two screen projected on the floor and on a wall. In this highly immersive experience, they will need to collaborate to discover everything about their environment, wich has a lot to offer. Here is a [short video](https://youtu.be/afiMRngNa0w) showing a bit of the project.
 
 ### Cubes-game
+
+
 
 ### RSA cryptosystem - C
 

@@ -1,6 +1,6 @@
-# Yunrayz
+# Clément Rousseau
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunrayz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunrayz&layout=compact)]
 
 ## About me
 
@@ -8,7 +8,7 @@ I am Clément Rousseau, a student in computer science at the University of Techn
 
 ### Humanbusters
 
-Made with Unity. A 2D game entirely made by a 5 students team. Here 
+Made with Unity. A 2D game entirely made by a 5 students team. Here is a [gameplay footage](https://youtu.be/4UKzsBFSgks)
 
 ### generative-content-smart-room
 

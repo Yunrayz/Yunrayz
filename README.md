@@ -15,18 +15,30 @@ Made with Unity. It's a game supposed to be played by two children, between 6 an
 
 ### Cubes-game
 
+Made with Unity. A small game made to learn the basics of Unity. A cube is going forward and must avoid the obtacles on the track to win.
 
-
-### RSA cryptosystem - C
 
 ### Axure rp UI
 
-### Site internet - PHP
+This is an interface made with Axure RP for an application made for an event taking place each year aat my university. It's made following the material design rules and with a special attention on the accessibility.
 
-### Site internet - HTML and CSS
+
+### Sites - PHP & HTML/CSS
+
+I made some sites during school projects. One is only made with HTML, CSS and javascript, whereas the other uses PHP to generate the view.
 
 ### Stencyl game
 
+A litle 2D game made with the Stencyl software. It's an rpg game where the player needs to die to solve the different riddles of the game.
+
 ### Jest Card Game - Java
 
+The jest card game implemented in Java. It can be played by one or two players, uusing comand lines or a graphical interface.
+
+### RSA cryptosystem - C
+
+This is a program made in C to encrypt a file using the RSA cryptosystem. It uses arrays of integer to optimize the computations
+
 ### Integration by random draw - C
+
+A program made in C to compute the result of an integration of a polynom by generating random points and counting them.
